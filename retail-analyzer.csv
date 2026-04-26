@@ -1,0 +1,61 @@
+date,store,category,product,units_sold,revenue,discount,customer_age,gender,payment_method,city
+01/01/2024,Mall of Emirates,Electronics,Phone,5,15000,10,28,Male,Card,Dubai
+01/01/2024,Dubai Mall,Clothing,Shirt,20,2000,5,35,Female,Cash,Dubai
+02/01/2024,Mall of Emirates,Food,Coffee,50,500,0,22,Male,Card,Dubai
+02/01/2024,City Centre,Electronics,Laptop,3,12000,15,45,Male,Card,Sharjah
+03/01/2024,Dubai Mall,Clothing,Dress,15,4500,10,30,Female,Card,Dubai
+03/01/2024,Mall of Emirates,Food,Sandwich,80,1600,0,25,Female,Cash,Dubai
+04/01/2024,City Centre,Electronics,Tablet,7,14000,5,38,Male,Card,Sharjah
+04/01/2024,Dubai Mall,Beauty,Perfume,12,6000,20,27,Female,Card,Dubai
+05/01/2024,Mall of Emirates,Clothing,Jacket,10,5000,10,40,Male,Cash,Dubai
+05/01/2024,City Centre,Food,Juice,60,900,0,19,Female,Cash,Sharjah
+06/01/2024,Dubai Mall,Electronics,Phone,8,24000,10,32,Male,Card,Dubai
+06/01/2024,Mall of Emirates,Beauty,Skincare,25,7500,15,29,Female,Card,Dubai
+07/01/2024,City Centre,Clothing,Shoes,18,5400,5,33,Male,Card,Sharjah
+07/01/2024,Dubai Mall,Food,Coffee,90,900,0,24,Female,Cash,Dubai
+08/01/2024,Mall of Emirates,Electronics,Laptop,4,16000,10,42,Male,Card,Dubai
+08/01/2024,City Centre,Beauty,Perfume,9,4500,20,31,Female,Card,Sharjah
+09/01/2024,Dubai Mall,Clothing,Dress,22,6600,5,28,Female,Cash,Dubai
+09/01/2024,Mall of Emirates,Food,Sandwich,70,1400,0,26,Male,Cash,Dubai
+10/01/2024,City Centre,Electronics,Tablet,5,10000,15,37,Male,Card,Sharjah
+10/01/2024,Dubai Mall,Beauty,Skincare,30,9000,10,34,Female,Card,Dubai
+11/01/2024,Mall of Emirates,Clothing,Shirt,25,2500,0,29,Male,Cash,Dubai
+11/01/2024,City Centre,Food,Juice,75,1125,0,21,Female,Cash,Sharjah
+12/01/2024,Dubai Mall,Electronics,Phone,6,18000,10,36,Male,Card,Dubai
+12/01/2024,Mall of Emirates,Beauty,Perfume,14,7000,15,30,Female,Card,Dubai
+13/01/2024,City Centre,Clothing,Jacket,12,6000,5,41,Male,Card,Sharjah
+13/01/2024,Dubai Mall,Food,Coffee,100,1000,0,23,Female,Cash,Dubai
+14/01/2024,Mall of Emirates,Electronics,Laptop,6,24000,10,44,Male,Card,Dubai
+14/01/2024,City Centre,Beauty,Skincare,20,6000,20,27,Female,Card,Sharjah
+15/01/2024,Dubai Mall,Clothing,Shoes,16,4800,5,32,Male,Cash,Dubai
+15/01/2024,Mall of Emirates,Food,Sandwich,65,1300,0,25,Female,Cash,Dubai
+16/01/2024,Dubai Mall,Electronics,Phone,9,27000,10,31,Male,Card,Dubai
+16/01/2024,City Centre,Beauty,Perfume,11,5500,15,28,Female,Card,Sharjah
+17/01/2024,Mall of Emirates,Clothing,Dress,19,5700,5,33,Female,Cash,Dubai
+17/01/2024,Dubai Mall,Food,Juice,85,1275,0,22,Male,Cash,Dubai
+18/01/2024,City Centre,Electronics,Laptop,4,16000,10,39,Male,Card,Sharjah
+18/01/2024,Mall of Emirates,Beauty,Skincare,22,6600,20,26,Female,Card,Dubai
+19/01/2024,Dubai Mall,Clothing,Jacket,14,7000,5,43,Male,Card,Dubai
+19/01/2024,City Centre,Food,Coffee,95,950,0,24,Female,Cash,Sharjah
+20/01/2024,Mall of Emirates,Electronics,Tablet,8,16000,15,36,Male,Card,Dubai
+20/01/2024,Dubai Mall,Beauty,Perfume,16,8000,10,29,Female,Card,Dubai
+21/01/2024,City Centre,Clothing,Shirt,30,3000,0,27,Male,Cash,Sharjah
+21/01/2024,Mall of Emirates,Food,Sandwich,55,1100,0,23,Female,Cash,Dubai
+22/01/2024,Dubai Mall,Electronics,Phone,7,21000,10,34,Male,Card,Dubai
+22/01/2024,City Centre,Beauty,Skincare,18,5400,20,31,Female,Card,Sharjah
+23/01/2024,Mall of Emirates,Clothing,Shoes,21,6300,5,38,Male,Card,Dubai
+23/01/2024,Dubai Mall,Food,Coffee,110,1100,0,25,Female,Cash,Dubai
+24/01/2024,City Centre,Electronics,Laptop,5,20000,10,41,Male,Card,Sharjah
+24/01/2024,Mall of Emirates,Beauty,Perfume,13,6500,15,28,Female,Card,Dubai
+25/01/2024,Dubai Mall,Clothing,Dress,17,5100,5,32,Female,Cash,Dubai
+25/01/2024,City Centre,Food,Juice,70,1050,0,20,Male,Cash,Sharjah
+26/01/2024,Mall of Emirates,Electronics,Phone,10,30000,10,35,Male,Card,Dubai
+26/01/2024,Dubai Mall,Beauty,Skincare,28,8400,20,27,Female,Card,Dubai
+27/01/2024,City Centre,Clothing,Jacket,15,7500,5,42,Male,Card,Sharjah
+27/01/2024,Mall of Emirates,Food,Coffee,80,800,0,24,Female,Cash,Dubai
+28/01/2024,Dubai Mall,Electronics,Tablet,6,12000,15,37,Male,Card,Dubai
+28/01/2024,City Centre,Beauty,Perfume,10,5000,10,30,Female,Card,Sharjah
+29/01/2024,Mall of Emirates,Clothing,Shirt,28,2800,0,29,Male,Cash,Dubai
+29/01/2024,Dubai Mall,Food,Sandwich,75,1500,0,26,Female,Cash,Dubai
+30/01/2024,City Centre,Electronics,Phone,8,24000,10,33,Male,Card,Sharjah
+30/01/2024,Mall of Emirates,Beauty,Skincare,24,7200,20,28,Female,Card,Dubai
